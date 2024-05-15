@@ -1,0 +1,30 @@
+#titulo{
+    color:saddlebrown;
+    font-size: 50px;
+    background-color: moccasin;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    border-width: 5px;
+}
+h2{
+    color:chocolate;
+    font-size: 40px;
+}
+article, footer{
+    background-color: moccasin;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: black;
+    border-width: 5px;
+}
+h2,p, ul, li, a {
+    background-color: moccasin;
+}
+
+*{
+    font-size: 30px;
+    background: sienna url(/img_cocina/fondo\ 2.jpg) repeat-y center bottom / 10000px 13000px;
+    
+}
+/*selector para crear notas, se puede colocar donde sea*/

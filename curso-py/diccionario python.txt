@@ -1,0 +1,61 @@
+diccionario
+
+booleanos = operaciones binarias (verdadero o falso)
+
+print	= inprimir
+
+input	= agrega datos por usuario
+
+int	= numeros enteros
+
+str	= cadena de caracteres
+
+flots	= numeros decimales
+
+type	= muestra el tipo de comando
+
+if = si
+
+elif = sino, que tal esto
+
+else = no
+
+index()	= busca caracteres de izquierda a derecha
+
+rindex()= busca caracteres de derecha a izquierda
+
+.upper()= pasar a mayusculas
+
+.lower()= pasar a minusculas
+
+.split()= separar en partes las listas
+
+join()	= unir iten usando separadores
+
+find()	= encontrar un sub str
+
+replace()= reemplazar un sub str
+
+len = contar el total de caracteres de un str
+
+.pop = remover de la lista
+
+.append = agregar a las listas
+
+.sort = ordenar listas en orden alfabetico
+
+.reverse = ordena lista en orden alfazbetico invertido
+
+.count () = contar las veces que se repite un valor
+
+.index () = permite buscar la posicion dentre de la variable del valor deseado
+
+.union() = unir set
+
+.add () = agregar elementos
+
+.remove () = remover elemento
+
+.discard () = descartar elementos
+
+.startswith () = si un elemento inicia con un determinado caracter
